@@ -1,4 +1,4 @@
-I tested each feature individually, with both PMMGe (deprecated) and its replacement ![Refined Prun](https://github.com/refined-prun/refined-prun), and it seems to work well. There's a bunch of togglable features at the top of the script:
+I tested each feature individually, with both PMMGe (deprecated) and its replacement [Refined Prun](https://github.com/refined-prun/refined-prun), and it seems to work well. There's a bunch of togglable features at the top of the script:
 
 shrinkResourceIcons: true,           // From 48px to 32px, as well as shrinking the padding between icons
 inventoryGridTweaks: true,           // Makes inventory icons left-aligned instead of justified
